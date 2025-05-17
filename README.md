@@ -16,8 +16,9 @@ El sistema comienza con una pantalla de autenticación donde los usuarios deben 
 Una vez iniciada la sesión, se presenta una pantalla de bienvenida y acceso directo al módulo de **Roles de Pago**, donde el usuario podrá:
 
 - Consultar roles de pago ya generados.
-- Visualizar detalles como montos, descuentos y bonificaciones.
+  <img src="https://github.com/user-attachments/assets/6ef82a1f-7fd3-4204-8322-f9b875e69348" width="300" height="500">
 - Generar nuevos roles de pago mediante un formulario especializado que permite ingresar la información del empleado y los datos correspondientes al período de pago.
+  <img src="https://github.com/user-attachments/assets/97f103d8-0743-473a-abd7-71ab4130b37d" width="300" height="500">
 
 ---
 
@@ -31,7 +32,7 @@ Desde la pestaña de **Empleados**, se puede:
 - Eliminar registros innecesarios.
 
 Todo esto se gestiona de forma ágil mediante formularios interactivos.
-
+  <img src="https://github.com/user-attachments/assets/786bc874-cb4f-4ed0-8545-7ec06938261e" width="300" height="500">
 ---
 
 ## 🛠 Otras Funcionalidades
