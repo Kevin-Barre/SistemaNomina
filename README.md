@@ -7,7 +7,7 @@ Este proyecto corresponde a un sistema de gestión de nómina desarrollado para 
 ## 🔐 Inicio de Sesión
 
 El sistema comienza con una pantalla de autenticación donde los usuarios deben ingresar sus credenciales. Este módulo garantiza el acceso seguro a la plataforma.
-<img src="https://github.com/user-attachments/assets/5dcb53ae-0ea8-4477-95d2-21434eca0659" width="300" height="500">
+<img src="https://github.com/user-attachments/assets/5dcb53ae-0ea8-4477-95d2-21434eca0659" width="900" height="500">
 
 ---
 
